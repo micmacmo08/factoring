@@ -1,5 +1,5 @@
 //Michael Morris
-//CS 3060-001 Fall 2014
+//CS 3060-001 Spring 2015
 //Assignment #3
 /* Promise of Originality
 I promise that this source code file has, in it's entirety, been
